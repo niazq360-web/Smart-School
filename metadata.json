@@ -1,0 +1,10 @@
+{
+  "name": "Smart School",
+  "description": "Comprehensive production-ready school management system with multilingual support (English, Urdu, Sindhi), student & teacher management, QR & face attendance, fee collection, salary slips, exam marks, timetables, and AI tools.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
